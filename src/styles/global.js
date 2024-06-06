@@ -11,7 +11,7 @@ export default createGlobalStyle`
     background: ${({ theme }) => theme.COLORS.BACKGROUND_900};
     color: ${({ theme }) => theme.COLORS.WHITE};
   }
-  
+
   body, input, button, textare, a {
     font-family: 'DM Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
